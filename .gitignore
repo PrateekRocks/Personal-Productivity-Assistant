@@ -9,5 +9,6 @@
 *.log.*
 *.sig
 
+DataBase/
 pkg/
 src/
